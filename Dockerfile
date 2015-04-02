@@ -1,4 +1,4 @@
-FROM iojs:1.6.2
+FROM iojs
 MAINTAINER Decheng Zhang <killercentury@gmail.com>
 
 RUN npm install -g bower grunt-cli
