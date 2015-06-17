@@ -1,6 +1,6 @@
 # io.js + Bower + Grunt in Docker
 
-This image is based on the offical [io.js Docker image](https://registry.hub.docker.com/_/iojs/). It provides the minimum tools and environment for developing web applications.
+This image is based on the offical [io.js Docker image](https://registry.hub.docker.com/_/iojs/). It provides the minimum tools and environment for building web applications.
 
 ## Supported tags and respective `Dockerfile` links
 * [`latest`](https://github.com/killercentury/docker-iojs-bower-grunt/blob/master/Dockerfile)
