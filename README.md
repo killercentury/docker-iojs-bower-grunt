@@ -5,6 +5,7 @@ This image is based on the offical [io.js Docker image](https://registry.hub.doc
 ## Supported tags and respective `Dockerfile` links
 * [`latest`](https://github.com/killercentury/docker-iojs-bower-grunt/blob/master/Dockerfile)
 * [`onbuild`](https://github.com/killercentury/docker-iojs-bower-grunt/blob/master/onbuild/Dockerfile)
+* [`onbuild-production`](https://github.com/killercentury/docker-iojs-bower-grunt/blob/master/onbuild-production/Dockerfile)
 
 ## Examples
 Following commands are examples that show you how to develop your application inside a container environment or run it inside the same environment on CI. (Some arguments may not be required depending on your actual use case.)
